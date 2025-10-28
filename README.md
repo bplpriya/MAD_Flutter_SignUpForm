@@ -15,24 +15,6 @@ It demonstrates **form validation**, **screen navigation**, and **animations** i
 
 ---
 
-## 🏗️ Project Setup
-
-### 1️⃣ Create a Flutter Project
-```bash
-flutter create signup_app
-cd signup_app
-```
-
-### 2️⃣ Replace the code
-Replace everything in **lib/main.dart** with the provided code.
-
-### 3️⃣ Run the App
-```bash
-flutter run
-```
-
----
-
 ## ⚙️ Building the Release APK
 To generate your release build:
 ```bash
